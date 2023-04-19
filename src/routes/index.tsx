@@ -43,7 +43,7 @@ export default function Index() {
   }, [state]);
 
   return (
-    <App title="Create your own AI chat bot">
+    <App title="Your own  pump bot">
       <main className="bg-white md:rounded-lg md:shadow-md p-6 w-full h-full flex flex-col">
         <section className="overflow-y-auto flex-grow mb-4 pb-8">
           <div className="flex flex-col space-y-4">
@@ -66,9 +66,9 @@ export default function Index() {
                     Built with 🤖{" "}
                     <a
                       className="underline"
-                      href="https://github.com/ascorbic/daneel"
+                      href="https://github.com/ascorbic"
                     >
-                      Daneel
+                      Pumps Coimbatore
                     </a>
                   </p>
                 </div>
